@@ -1,0 +1,16 @@
+package day 3
+
+public class DemoArray{
+
+  public static void main(String[] args){
+    int score1 = 100;
+    int score2 = 98;
+    int score3 = 99;
+    System.out.println(score3);
+    int score4 = 90;
+	  System.out.println(score4);
+  
+  
+  }
+
+}
